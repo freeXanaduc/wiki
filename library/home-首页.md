@@ -1,10 +1,11 @@
-# amWikiTest
+# 荀子 劝学
 
 <br>
 
-![欢迎使用amWiki！](amWiki/images/logo.png "欢迎使用amWiki！")  
+![](amWiki/images/index.jpg)  
 
-### 欢迎使用 amWiki 轻文库!
-—— **amWiki 致力于让大家可以更简单、更便捷的建设个人和团队文库！**  
-
-[ [view amWiki on Github](https://github.com/TevinLi/amWiki) ]
+### 积土成山，风雨兴焉；积水成渊，蛟龙生焉；
+### 积善成德，而神明自得，圣心备焉。
+### 故不积跬步，无以致千里；不积小流，无以成江海。
+### 骐骥一跃，不能十步，驽马十驾，功在不舍。
+### 锲而舍之，朽木不折；锲而不舍，金石可镂。
