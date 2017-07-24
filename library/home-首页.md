@@ -2,7 +2,7 @@
 
 <br>
 
-![](amWiki/images/index.jpg)  
+![](amWiki/images/index.png)  
 
 ### 积土成山，风雨兴焉；积水成渊，蛟龙生焉；
 ### 积善成德，而神明自得，圣心备焉。
